@@ -1,60 +1,44 @@
-<!DOCTYPE html>
+# Hello I am charge
+<div style='font-size:1.2em'>
+	<b>Just here too have fun</b>
+	<br>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@HonkThePlanet</title>
-</head>
-<body bgcolor="black" background="http://i0.kym-cdn.com/photos/images/original/000/128/096/Nyancatless20110725-22047-2vf3z5.gif">
+</div>
 
-    <div align="center">
+<br>
 
-        <h1>
-            <span style="color:white"> GooseCorp </span> <br>
-            <span style="color:white"> أوزة كورب </span>
-        </h1> <br>
+## ⚡ Find  Me on
 
-        <a href="https://twitter.com/honktheplanet" target="_blank"> <img src="https://cdn.discordapp.com/attachments/759116707582836806/759509112609439824/-KdUWAky_400x400.png" alt="GooseCorpIcon"> </a> <br>
+<div align='left' style="display: flex; justify-content: space-between;">
+	<a href='#'>
+	<img src=https://img.shields.io/badge/Discord-chrge%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = chrge#0001'>
+	</a>
+</div>
 
+<hr>
 
+## 🔧 Langs i know 
 
-        <p style="color: white; font-size: 28px;">
-            <b>Hacked By GooseCorp</b> 
-            <br>
-            <b>The Best Hacking Group In The Universe Since 2020.</b> 
-            <br>
-            <br>
-            <b>@HonkThePlanet #HonkThePlanet</b>
-            <br>
-            <br>
-            <b> @AltCtrlFlex @sqltable @leaks872 @SantanaThePlug @HillarySyndrome</b>
+<div align='left' style="display: flex; justify-content: space-between;">
+	<!-- Programming Languages. -->
+	&emsp;
+	<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
+		<img src='https://img.shields.io/badge/code-html-E34F26?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge' alt='HTML'>
+	</a>
+	&emsp;
+	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+		<img src='https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6' alt='CSS'>
+	</a>
+	<a href='#'>
+		<img src='https://img.shields.io/badge/code-c%20programming-A8B9CC?logoWidth=30&labelColor=black&style=for-the-badge&logo=c' alt='C'>
+	</a>
+	&emsp;
+	<a href='#'>
+		<img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='C++'>
+	</a>
+	&emsp;
+	
+</div>
+<hr>
 
-        </p>
-
-        <br>
-
-        <p style="color: white; font-size: 28px;">
-            Followed By <b>ISISGANG</b>
-        </p>
-
-        <img src="http://www.themideastbeast.com/wp-content/uploads/2017/08/ISIS-March.jpg" alt="ISIS">
-
-
-
-    </div>
-
-    <div></div>
-
-
-    <embed src="step.mp3" autostart="true" loop="true" width="0" height="0">
-
-
-    
-</body>
-
-
-<!--v1.1-->
-
-
-</html>
+<img src="https://komarev.com/ghpvc/?username=running&style=flat-square">
